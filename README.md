@@ -1,4 +1,4 @@
 ---> Hi I'm <font size=20><b>Javohir</b></font> !!! <br>
 ---> I'm Interested in Programming !!! <br>
----> I'm currently learning <b>Android</b> and <b>Desktop</b> Development !!!
+---> I'm currently learning <b>Android</b> and <b>Desktop</b> Development !!! <br>
 ---> <b><i> +998 93 446 06 60</i></b>
