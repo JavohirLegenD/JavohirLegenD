@@ -1,4 +1,4 @@
----> Hi I'm Javohir !!! <br>
----> I'm Interested in Programming !!!
+---> Hi I'm <b>Javohir</b> !!! <br>
+---> I'm Interested in Programming !!! <br>
 ---> I'm currently learning Android and Desktop Development !!!
 ---> +998 93 446 06 60
